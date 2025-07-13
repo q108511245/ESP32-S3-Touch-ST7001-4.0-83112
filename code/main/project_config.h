@@ -59,7 +59,7 @@ static const char *OTAURL = "http://bin.bemfa.com/b/1BcMDBlNDUyMTQ5Yjk2ZGQ3MjZjZ
 
 static const char *weather_url = "http://ali-weather.showapi.com/gps-to-weather?lng=120.68&lat=31.32&needMoreDay=1&needIndex=0&needHourData=0&need3HourForcast=0&needAlarm=0";
 
-static const char *app_code = "APPCODE 66f613de737140d1b7b12e4ffd473de9";
+static const char *app_code = "APPCODE 123";
 
 // 是否开启日志
 static const uint8_t isOpenLog = 0;
