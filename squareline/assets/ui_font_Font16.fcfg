@@ -1,0 +1,16 @@
+{
+  "codename": "Font16",
+  "ttf_path": "/assets/碳化硅黑体.ttf",
+  "bin_path": "/assets\\ui_font_Font16.bin",
+  "c_path": "/assets\\ui_font_Font16.c",
+  "cfg_path": "/assets\\ui_font_Font16.fcfg",
+  "size": 16,
+  "bpp": 8,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "天气闹钟表盘设置张家港市℃时间选择取消确定项目名称张家港市昱俊铖科技有限公司账号请输入密码未状态已连接风速地址气压东南西北向级端口星期一二三四五六日主题",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

@@ -1,0 +1,16 @@
+{
+  "codename": "Font100",
+  "ttf_path": "/assets/碳化硅黑体.ttf",
+  "bin_path": "/assets\\ui_font_Font100.bin",
+  "c_path": "/assets\\ui_font_Font100.c",
+  "cfg_path": "/assets\\ui_font_Font100.fcfg",
+  "size": 100,
+  "bpp": 8,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "年月日星期一二三四五六",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
