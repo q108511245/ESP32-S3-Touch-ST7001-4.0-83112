@@ -1,0 +1,33 @@
+dependencies:
+  cmake_utilities:
+    dependencies:
+    - name: idf
+      version: '>=4.1'
+    source:
+      path: D:\UGit\ESP32-S3-Touch-ST7001-4.0-8311\components\cmake_utilities
+      type: local
+    version: 0.5.3
+  esp_io_expander:
+    dependencies: []
+    source:
+      path: D:\UGit\ESP32-S3-Touch-ST7001-4.0-8311\components\esp_io_expander
+      type: local
+    version: 1.0.1
+  esp_lcd_touch:
+    dependencies: []
+    source:
+      path: D:\UGit\ESP32-S3-Touch-ST7001-4.0-8311\components\esp_lcd_touch
+      type: local
+    version: 1.0.0
+  idf:
+    source:
+      type: idf
+    version: 5.3.1
+direct_dependencies:
+- cmake_utilities
+- esp_io_expander
+- esp_lcd_touch
+- idf
+manifest_hash: f5939e987c818ce7d8851e0f787d14542ad7d589bfe05d023893e0b933a147b5
+target: esp32s3
+version: 2.0.0
