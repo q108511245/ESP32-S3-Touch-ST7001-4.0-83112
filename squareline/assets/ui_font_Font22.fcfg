@@ -1,0 +1,16 @@
+{
+  "codename": "Font22",
+  "ttf_path": "/assets/碳化硅黑体.ttf",
+  "bin_path": "/assets\\ui_font_Font22.bin",
+  "c_path": "/assets\\ui_font_Font22.c",
+  "cfg_path": "/assets\\ui_font_Font22.fcfg",
+  "size": 22,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "固件更新下载成功后，将自动重启设备开始取消℃今天白天预计有小雨最高气温29。时间选择置闹密码确定钟关于项目名称加确定要删除吗提示没有数据报警中过程勿断电扫描初始化中请输入版本官网地址",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
